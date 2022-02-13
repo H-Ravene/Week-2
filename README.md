@@ -1,2 +1,2 @@
 # Week-2
-Jupyter Notebook 
+Creating a small Jupyter Notebook using the zip() function. 
